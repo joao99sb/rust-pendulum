@@ -1,5 +1,5 @@
 use speedy2d::color::Color;
-use speedy2d::window::{self, WindowHandler, WindowHelper};
+use speedy2d::window::{WindowHandler, WindowHelper};
 use speedy2d::{Graphics2D, Window};
 
 struct Pendulum {
